@@ -1,4 +1,8 @@
-### Hi there 👋
+### Opa! Meu nome é Neto, prazer!
+
+### Estudando: javascript
+### Focado na melhora🙏🏾
+### Futuro *fullstack dev*
 
 <!--
 **CarlosNeto28/CarlosNeto28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
