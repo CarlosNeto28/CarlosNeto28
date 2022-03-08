@@ -1,6 +1,6 @@
 ### Opa! Meu nome é Neto, prazer!
 
-### Estudando: javascript
+### Estudando: front-end e como fazer um bom almoço
 
 
 <!--
