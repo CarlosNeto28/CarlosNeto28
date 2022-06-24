@@ -1,6 +1,6 @@
 ### Opa! Meu nome é Neto, prazer!
 
-### Estudando: front-end e como fazer um bom almoço
+### Estudando: <strong>front-end</strong> e como fazer um bom almoço
 
 
 <!--
