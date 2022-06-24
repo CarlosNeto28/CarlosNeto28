@@ -1,6 +1,9 @@
 ### Opa! Meu nome é Neto, prazer!
 
-### Estudando: <strong>front-end</strong> e como fazer um bom almoço
+### Estudando: Como fazer um bom almoço
+
+### Front-end web developer: Javascript, react, bootstrap
+
 
 
 <!--
